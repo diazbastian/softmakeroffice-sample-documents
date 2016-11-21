@@ -1,6 +1,6 @@
 ## SoftMaker Office sample documents
 
-This repository contains a set of sample documents of native [SoftMaker Office](http://www.softmaker.com/) formats: TexMaker *.tmd, PlanMaker *.pmdx and Presentations *.prd files and their different available versions.
+This repository contains a set of sample documents of native [SoftMaker Office](http://www.softmaker.com/) formats: TexMaker *.tmd, PlanMaker *.pmdx and Presentations *.prd files and their different available versions. In addition, all PDF documents are hybrids and include an embedded SoftMaker Office document.
 
 This is an initiative to provide support to [The Document Liberation Project](http://www.documentliberation.org/).
 
